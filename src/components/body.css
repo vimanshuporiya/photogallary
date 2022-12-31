@@ -1,0 +1,49 @@
+.main-title{
+    text-align: center;
+    margin-bottom: -16px;
+    background-color:black;
+}
+.main-title ul button{
+    list-style: none;
+    display: inline-block;
+    margin:50px 5px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: sans-serif;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: 0.5s ease;
+    text-align: center;
+   
+    background:black;
+    color: white;
+    border-radius: 8px;
+    border: none;
+
+}
+
+.main-title ul button:hover{
+    background-color: black;
+    color: white;
+    border-radius: 8px;
+}
+button.title-button{
+    background-color:black;
+    color: rebeccapurple;
+    border-radius: 8px;
+    padding: 10px 20px;
+}
+.column-card{
+    width: 1519px;
+    height: 1680px;
+	background: url('../main2.jpg');
+	background-size: cover;
+	background-attachment: fixed;
+    text-align: left;
+   
+}
+.cards{
+
+    margin: 1% 1%;
+   padding: 10px;
+}
